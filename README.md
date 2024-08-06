@@ -14,7 +14,8 @@
 </div> 
 <br>
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anaquarele&show_icons=true&theme=dark)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anaquarele&show_icons=true&theme=dark) 
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaquarele&layout=compact)
 
 
