@@ -4,7 +4,7 @@
   
 
 ### Olá, me chamo Ana!
-#### Amante de tecnologia e entusiatas no Desenvolvimento Web
+#### Amante de jogos, tecnologia e entusiatas no Desenvolvimento Web
 ### Skills: 
 
  <div style="display: inline_block"> 
